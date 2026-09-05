@@ -15,7 +15,7 @@
   window.TRAFFIC_SOURCE = detectedTrafficSource || rememberedTrafficSource();
 
   const defaults = {
-    company_name: "立順投資有限公司",
+    company_name: "安富資產管理股份有限公司",
     line_id: "@703umlsa",
     line_url: "https://line.me/R/ti/p/@703umlsa",
     pixel_ids: [
